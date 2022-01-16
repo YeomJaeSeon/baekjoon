@@ -1,3 +1,12 @@
+## 2022/01/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119) |
+
 ## 2022/01/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -760,7 +769,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
 
 ## 2021/10/23 
