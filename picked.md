@@ -1,3 +1,12 @@
+## 2022/02/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [7568](https://www.acmicpc.net/problem/7568) | [덩치](https://www.acmicpc.net/problem/7568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16938](https://www.acmicpc.net/problem/16938) | [캠프 준비](https://www.acmicpc.net/problem/16938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [21611](https://www.acmicpc.net/problem/21611) | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) |
+
 ## 2022/02/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1219,7 +1228,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16938](https://www.acmicpc.net/problem/16938) | [캠프 준비](https://www.acmicpc.net/problem/16938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16938](https://www.acmicpc.net/problem/16938) | [캠프 준비](https://www.acmicpc.net/problem/16938) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
 
 ## 2021/09/19 
