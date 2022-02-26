@@ -1,3 +1,12 @@
+## 2022/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10988](https://www.acmicpc.net/problem/10988) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18353](https://www.acmicpc.net/problem/18353) | [병사 배치하기](https://www.acmicpc.net/problem/18353) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+
 ## 2022/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -11,7 +20,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20207](https://www.acmicpc.net/problem/20207) | [달력](https://www.acmicpc.net/problem/20207) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21937](https://www.acmicpc.net/problem/21937) | [작업](https://www.acmicpc.net/problem/21937) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11049](https://www.acmicpc.net/problem/11049) | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |
@@ -983,7 +992,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18404](https://www.acmicpc.net/problem/18404) | [현명한 나이트](https://www.acmicpc.net/problem/18404) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2688](https://www.acmicpc.net/problem/2688) | [줄어들지 않아](https://www.acmicpc.net/problem/2688) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2866](https://www.acmicpc.net/problem/2866) | [문자열 잘라내기](https://www.acmicpc.net/problem/2866) |
