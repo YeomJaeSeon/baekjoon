@@ -1,3 +1,12 @@
+## 2022/04/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2635](https://www.acmicpc.net/problem/2635) | [수 이어가기](https://www.acmicpc.net/problem/2635) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
+
 ## 2022/04/01 
 
 | 난이도 | 번호 | 문제 이름 |
