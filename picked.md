@@ -1,3 +1,12 @@
+## 2022/04/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21610](https://www.acmicpc.net/problem/21610) | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11437](https://www.acmicpc.net/problem/11437) | [LCA](https://www.acmicpc.net/problem/11437) |
+
 ## 2022/04/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -230,7 +239,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1316](https://www.acmicpc.net/problem/1316) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2293](https://www.acmicpc.net/problem/2293) | [동전 1](https://www.acmicpc.net/problem/2293) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
 
 ## 2022/03/10 
 
