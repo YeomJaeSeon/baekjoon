@@ -1,3 +1,12 @@
+## 2022/04/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16171](https://www.acmicpc.net/problem/16171) | [나는 친구가 적다 (Small)](https://www.acmicpc.net/problem/16171) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19535](https://www.acmicpc.net/problem/19535) | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) |
+
 ## 2022/04/20 
 
 | 난이도 | 번호 | 문제 이름 |
