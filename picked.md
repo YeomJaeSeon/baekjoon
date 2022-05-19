@@ -1,3 +1,12 @@
+## 2022/05/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1940](https://www.acmicpc.net/problem/1940) | [주몽](https://www.acmicpc.net/problem/1940) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1541](https://www.acmicpc.net/problem/1541) | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1958](https://www.acmicpc.net/problem/1958) | [LCS 3](https://www.acmicpc.net/problem/1958) |
+
 ## 2022/05/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -165,7 +174,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [20114](https://www.acmicpc.net/problem/20114) | [미아 노트](https://www.acmicpc.net/problem/20114) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |
 
