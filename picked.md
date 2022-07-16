@@ -1,3 +1,12 @@
+## 2022/07/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1935](https://www.acmicpc.net/problem/1935) | [후위 표기식2](https://www.acmicpc.net/problem/1935) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1456](https://www.acmicpc.net/problem/1456) | [거의 소수](https://www.acmicpc.net/problem/1456) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1753](https://www.acmicpc.net/problem/1753) | [최단경로](https://www.acmicpc.net/problem/1753) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
+
 ## 2022/07/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -734,7 +743,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
 
 ## 2022/04/25 
 
@@ -3002,7 +3011,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1934](https://www.acmicpc.net/problem/1934) | [최소공배수](https://www.acmicpc.net/problem/1934) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11660](https://www.acmicpc.net/problem/11660) | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
 
 ## 2021/08/16 
 
