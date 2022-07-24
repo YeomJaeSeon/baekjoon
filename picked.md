@@ -1,3 +1,12 @@
+## 2022/07/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1188](https://www.acmicpc.net/problem/1188) | [음식 평론가](https://www.acmicpc.net/problem/1188) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1197](https://www.acmicpc.net/problem/1197) | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |
+
 ## 2022/07/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -345,7 +354,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16507](https://www.acmicpc.net/problem/16507) | [어두운 건 무서워](https://www.acmicpc.net/problem/16507) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1005](https://www.acmicpc.net/problem/1005) | [ACM Craft](https://www.acmicpc.net/problem/1005) |
 
@@ -2144,7 +2153,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15650](https://www.acmicpc.net/problem/15650) | [N과 M (2)](https://www.acmicpc.net/problem/15650) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2294](https://www.acmicpc.net/problem/2294) | [동전 2](https://www.acmicpc.net/problem/2294) |
