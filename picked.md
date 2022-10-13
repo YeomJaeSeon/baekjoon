@@ -1,3 +1,12 @@
+## 2022/10/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21313](https://www.acmicpc.net/problem/21313) | [문어](https://www.acmicpc.net/problem/21313) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10597](https://www.acmicpc.net/problem/10597) | [순열장난](https://www.acmicpc.net/problem/10597) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) |
+
 ## 2022/10/13 
 
 | 난이도 | 번호 | 문제 이름 |
