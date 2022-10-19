@@ -1,3 +1,12 @@
+## 2022/10/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1032](https://www.acmicpc.net/problem/1032) | [명령 프롬프트](https://www.acmicpc.net/problem/1032) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6603](https://www.acmicpc.net/problem/6603) | [로또](https://www.acmicpc.net/problem/6603) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2448](https://www.acmicpc.net/problem/2448) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9470](https://www.acmicpc.net/problem/9470) | [Strahler 순서](https://www.acmicpc.net/problem/9470) |
+
 ## 2022/10/19 
 
 | 난이도 | 번호 | 문제 이름 |
