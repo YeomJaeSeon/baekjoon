@@ -1,3 +1,12 @@
+## 2022/10/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10974](https://www.acmicpc.net/problem/10974) | [모든 순열](https://www.acmicpc.net/problem/10974) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11048](https://www.acmicpc.net/problem/11048) | [이동하기](https://www.acmicpc.net/problem/11048) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14621](https://www.acmicpc.net/problem/14621) | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
+
 ## 2022/10/21 
 
 | 난이도 | 번호 | 문제 이름 |
