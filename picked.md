@@ -1,3 +1,12 @@
+## 2022/11/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2160](https://www.acmicpc.net/problem/2160) | [그림 비교](https://www.acmicpc.net/problem/2160) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2293](https://www.acmicpc.net/problem/2293) | [동전 1](https://www.acmicpc.net/problem/2293) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19566](https://www.acmicpc.net/problem/19566) | [수열의 구간 평균](https://www.acmicpc.net/problem/19566) |
+
 ## 2022/11/03 
 
 | 난이도 | 번호 | 문제 이름 |
