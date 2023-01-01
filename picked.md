@@ -1,3 +1,12 @@
+## 2023/01/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18353](https://www.acmicpc.net/problem/18353) | [병사 배치하기](https://www.acmicpc.net/problem/18353) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22948](https://www.acmicpc.net/problem/22948) | [원 이동하기 2](https://www.acmicpc.net/problem/22948) |
+
 ## 2023/01/01 
 
 | 난이도 | 번호 | 문제 이름 |
