@@ -1,3 +1,12 @@
+## 2023/01/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1758](https://www.acmicpc.net/problem/1758) | [알바생 강호](https://www.acmicpc.net/problem/1758) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2616](https://www.acmicpc.net/problem/2616) | [소형기관차](https://www.acmicpc.net/problem/2616) |
+
 ## 2023/01/23 
 
 | 난이도 | 번호 | 문제 이름 |
