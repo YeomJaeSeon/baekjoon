@@ -1,3 +1,12 @@
+## 2023/02/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2491](https://www.acmicpc.net/problem/2491) | [수열](https://www.acmicpc.net/problem/2491) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20437](https://www.acmicpc.net/problem/20437) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1958](https://www.acmicpc.net/problem/1958) | [LCS 3](https://www.acmicpc.net/problem/1958) |
+
 ## 2023/02/05 
 
 | 난이도 | 번호 | 문제 이름 |
