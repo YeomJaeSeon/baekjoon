@@ -1,3 +1,12 @@
+## 2023/02/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1309](https://www.acmicpc.net/problem/1309) | [동물원](https://www.acmicpc.net/problem/1309) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1520](https://www.acmicpc.net/problem/1520) | [내리막 길](https://www.acmicpc.net/problem/1520) |
+
 ## 2023/02/16 
 
 | 난이도 | 번호 | 문제 이름 |
