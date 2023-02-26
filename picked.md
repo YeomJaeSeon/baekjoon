@@ -1,3 +1,12 @@
+## 2023/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2922](https://www.acmicpc.net/problem/2922) | [즐거운 단어](https://www.acmicpc.net/problem/2922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
+
 ## 2023/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
