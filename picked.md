@@ -1,3 +1,12 @@
+## 2023/03/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2671](https://www.acmicpc.net/problem/2671) | [잠수함식별](https://www.acmicpc.net/problem/2671) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2661](https://www.acmicpc.net/problem/2661) | [좋은수열](https://www.acmicpc.net/problem/2661) |
+
 ## 2023/02/28 
 
 | 난이도 | 번호 | 문제 이름 |
