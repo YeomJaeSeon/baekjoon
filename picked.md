@@ -1,3 +1,12 @@
+## 2023/03/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15650](https://www.acmicpc.net/problem/15650) | [N과 M (2)](https://www.acmicpc.net/problem/15650) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15654](https://www.acmicpc.net/problem/15654) | [N과 M (5)](https://www.acmicpc.net/problem/15654) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15655](https://www.acmicpc.net/problem/15655) | [N과 M (6)](https://www.acmicpc.net/problem/15655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
+
 ## 2023/03/29 
 
 | 난이도 | 번호 | 문제 이름 |
