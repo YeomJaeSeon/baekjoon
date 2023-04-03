@@ -1,3 +1,12 @@
+## 2023/04/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10974](https://www.acmicpc.net/problem/10974) | [모든 순열](https://www.acmicpc.net/problem/10974) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11909](https://www.acmicpc.net/problem/11909) | [배열 탈출](https://www.acmicpc.net/problem/11909) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [15732](https://www.acmicpc.net/problem/15732) | [도토리 숨기기](https://www.acmicpc.net/problem/15732) |
+
 ## 2023/04/03 
 
 | 난이도 | 번호 | 문제 이름 |
