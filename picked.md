@@ -1,3 +1,12 @@
+## 2023/05/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13699](https://www.acmicpc.net/problem/13699) | [점화식](https://www.acmicpc.net/problem/13699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9024](https://www.acmicpc.net/problem/9024) | [두 수의 합](https://www.acmicpc.net/problem/9024) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
+
 ## 2023/05/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -813,7 +822,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2670](https://www.acmicpc.net/problem/2670) | [연속부분최대곱](https://www.acmicpc.net/problem/2670) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21315](https://www.acmicpc.net/problem/21315) | [카드 섞기](https://www.acmicpc.net/problem/21315) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
 
@@ -5009,7 +5018,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1695](https://www.acmicpc.net/problem/1695) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 
 ## 2021/10/28 
 
