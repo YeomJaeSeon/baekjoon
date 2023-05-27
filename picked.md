@@ -1,3 +1,12 @@
+## 2023/05/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5569](https://www.acmicpc.net/problem/5569) | [출근 경로](https://www.acmicpc.net/problem/5569) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14499](https://www.acmicpc.net/problem/14499) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+
 ## 2023/05/27 
 
 | 난이도 | 번호 | 문제 이름 |
