@@ -1,3 +1,12 @@
+## 2023/06/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21756](https://www.acmicpc.net/problem/21756) | [지우개](https://www.acmicpc.net/problem/21756) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19949](https://www.acmicpc.net/problem/19949) | [영재의 시험](https://www.acmicpc.net/problem/19949) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11403](https://www.acmicpc.net/problem/11403) | [경로 찾기](https://www.acmicpc.net/problem/11403) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
+
 ## 2023/06/04 
 
 | 난이도 | 번호 | 문제 이름 |
