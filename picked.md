@@ -1,3 +1,12 @@
+## 2023/06/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21940](https://www.acmicpc.net/problem/21940) | [가운데에서 만나기](https://www.acmicpc.net/problem/21940) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1823](https://www.acmicpc.net/problem/1823) | [수확](https://www.acmicpc.net/problem/1823) |
+
 ## 2023/06/13 
 
 | 난이도 | 번호 | 문제 이름 |
